@@ -1,1 +1,1 @@
-# Practica7-2
+# Práctica 7, Cafeteria Las Horas 2.
